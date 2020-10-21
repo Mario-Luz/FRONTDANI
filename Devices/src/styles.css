@@ -1,0 +1,16 @@
+
+#root {
+    background-color: rgb(81, 17, 184);
+    display: -moz-inline-grid;
+}
+
+.instructions {
+    border: 2px solid #000000;
+    border-radius: 30px;
+    margin: 10px auto;
+    padding: 20px;
+    text-align: center;
+    width: 500px;
+    background-color: rgb(23, 219, 128);
+    box-shadow: 5px 5px rgba(32, 173, 96, 0.562);
+}
